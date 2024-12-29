@@ -8,3 +8,4 @@ vol -f lab.raw windows.pslist
 ```
 The above lists the processes that were going on just before the crash and I found some processes that look of interest to me . First is obviously cmd.exe which was being executed , we also had ms-paint.exe running along with a WIN-Rar file which looks suspicious.
 
+I wanted to check what commands were being executed on the cmd as they told us that suddenly black window appeared and everything crashed , but I'm facing issues in finding the commands which will give me the info. I know the commands for volatility 2 but I was not able to find its equivalent and hence was not able to proceed with the other parts
