@@ -1,5 +1,4 @@
-After reading the sample lab0's writeup one thing which emphasized on is the description of the problem gives you hints and potential approaches , so following this I noticed some things of observation.
-"black window pop up with some thing being executed" should be cmd according to me and the fact that "When the crash happened, she was trying to draw something." most probably should be MS - Paint.
+After reading the sample lab0's writeup one thing which emphasized on is the description of the problem gives you hints and potential approaches , so following this I noticed some things like "black window pop up with some thing being executed" should be cmd according to me and the fact that "When the crash happened, she was trying to draw something." most probably should be MS - Paint.
 ```
  vol -f lab.raw windows.info      
 ```
