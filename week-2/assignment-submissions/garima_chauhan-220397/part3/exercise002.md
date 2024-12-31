@@ -1,0 +1,2 @@
+a=> Flinders Street (clearly written in the photo itself, verified by google search)
+b=> Focus Melbourne(166m) (first thought it was IBM then through Google Earth saw that a central equity building was taller then searched for it and found this)

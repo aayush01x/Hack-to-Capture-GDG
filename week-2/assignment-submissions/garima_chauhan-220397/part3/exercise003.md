@@ -1,0 +1,2 @@
+Presidential Complex Turkey (39.93160981629749, 32.7989902232735)
+after searching for the special red symbol part between the two rulers on google lens, found it out to be the complex then searched for lat, long on google maps
