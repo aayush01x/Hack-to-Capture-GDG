@@ -1,4 +1,6 @@
-flag: flag{w3ll_3rd_stage_was_easy}
+flag1: flag{th1s_1s_th3_1st_st4g3 !! } 
+flag2: 
+flag3: flag{w3ll_3rd_stage_was_easy}
 
 ```bash
 $ volatility_2.6_lin64_standalone -f MemoryDump_Lab1.raw imageinfo
@@ -14,6 +16,7 @@ $ cd dump && ls
 $ file file.None.0xfffffa8001034450.dat
 $ volatility_2.6_lin64_standalone -f MemoryDump_Lab1.raw --profile=Win7SP1x64 hashdump
 $ unrar e file.None.0xfffffa8001034450.dat
+$ volatility_2.6_lin64_standalone -f MemoryDump_Lab1.raw --profile=Win7SP1x64 consoles
 ```
 crashinfo: nothing interesting
 cmdline: Important.rar was made
