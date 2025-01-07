@@ -5,6 +5,7 @@ The goal of this project is to introduce participants to hacking and cybersecuri
 - Recruitment task: [link](recruitment-task/)
 - Week 1: [link](week-1/) 
 - Week 2: [link](week-2/) 
+- Week 3: [link](week-3/) 
 
 #### Mentor
 - Aayush Anand
