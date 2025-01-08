@@ -1,0 +1,1 @@
+on searching "somalia president turkey" and changing date range to april 2017, we get a bunch of articles on this event. Checking each of the site, we get the name of the place in one article(https://www.garoweonline.com/en/news/somalia/somalia-turkey-signs-bilateral-agreements-during-farmajos-visit), ie, Presidential Palace of Turkey

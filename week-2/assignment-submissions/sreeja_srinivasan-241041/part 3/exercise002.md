@@ -1,0 +1,2 @@
+a) the name of the train station is "flinders street", as mentioned on the boards in the picture
+b)IFocus apartments, 167m: for finding this, i first found the station on google earth. the name of one of the buildings in the picture was HWT, so on locating that near the station, I found the exact angle at which the picture was taken. Now I had to check the name and height of the other buildings. the IBM building was at a height of 131m, the Art Centre Melbourne(the white tower) was at a height of 162m, and the the focus apartments(blue building) is at a height of 167m. 
