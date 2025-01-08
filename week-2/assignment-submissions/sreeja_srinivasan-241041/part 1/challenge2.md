@@ -1,0 +1,2 @@
+on using file command, we could see that the signature has been corrupted, since file type is not being recognized. using xxd command, on viewing the hexdump, we see that it starts with 9a. the signature for a GIF is GIF9a. hence, we need to append these initial characters to the signature. Using nvim, this is done, and on getting the frames of the gif using a site online, we get a base64 encoded data, which on decoding reads:
+flag{g1f_or_j1f}
