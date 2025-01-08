@@ -1,0 +1,1 @@
+a=> uploading the image on tineye took to the wikimedia commons file (https://commons.wikimedia.org/wiki/File:WaziriyaAutobombelrak.jpg) which clearly suggests that the statement is not true.
