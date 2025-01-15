@@ -1,4 +1,5 @@
 # Week-3 Assignment
+**Deadline** : 22 Jan'25 EOD
 
 Make account on Cryptohack. The assignment for this week is to finish following [courses from cryptohack](https://cryptohack.org/courses/).: 
 - Introduction to Cryptohack course (10/10 lessons)
