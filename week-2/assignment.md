@@ -114,6 +114,6 @@ Solve exercises **001-010** from https://gralhix.com/list-of-osint-exercises/ [Y
             ├── exercise009.md
             └── exercise010.md
     ``` 
-- File naming convention : `firstname_middlename_surname-rollnumber.md`
+- Folder naming convention : `firstname_middlename_surname-rollnumber`
 - Make a **pull request** with your folder with above format in [assignment-submissions](assignment-submissions/) folder.
 - **Plagiarism is strictly prohibited and can lead to deratification**.
