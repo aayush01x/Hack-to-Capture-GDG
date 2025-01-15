@@ -11,6 +11,6 @@ You just need to go through the reading material and finish all the challenges m
     ├── Overflows
     └── Misc
     ``` 
-- File naming convention : `firstname_middlename_surname-rollnumber.md`
+- Folder naming convention : `firstname_middlename_surname-rollnumber`
 - Make a **pull request** with your folder with above format in [assignment-submissions](assignment-submissions/) folder.
 - **Plagiarism is strictly prohibited and can lead to deratification**.
